@@ -8,6 +8,7 @@
 //	TODO: convert it to structure-based code instead of using global variables
 // so we can have multiple ping instances running.
 // One ping for "ping watchdog", second ran from console by user, etc etc
+// blank
 //
 
 #include "obk_config.h"
